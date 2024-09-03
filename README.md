@@ -1,3 +1,3 @@
 # Learn About git and github
 
-## git
+this is just a dummy repository for me to practice git using gitbash
